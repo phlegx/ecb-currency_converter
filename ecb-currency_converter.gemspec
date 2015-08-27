@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec'
   spec.add_development_dependency 'timecop'
 
-  spec.add_dependency 'httparty', '~> 0.11.0'
+  spec.add_dependency 'httparty', '~> 0.13.5'
 end
